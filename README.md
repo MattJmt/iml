@@ -1,6 +1,6 @@
 # Machine Learning Course Projects
 
-As part of the ML course, 4 projects worth 30% of the final grade had to be handed in. The hard baseline was succesfully passed for each task.
+As part of the ML course, 4 projects worth 30% of the final grade had to be handed in. The hard baseline was successfully passed for each task.
 
 | Task  | Description |
 | ------------- | ------------- |
